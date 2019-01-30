@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+    background-image: url("back.jpg");
+    background-size: 1024px 768px
+}
+
+#wrapper {
+   
+    box-sizing: border-box;
+    background-color: hotpink;
+    float: center;
+  }
+
+  button {
+      background-color: blueviolet;
+      color: goldenrod;
+      font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+      width: 40%;
+      height: 30%;
+      font-size: 42px;
+  }
+
+  button:hover {
+      background-color: goldenrod;
+      color:blueviolet;
+      font-family: fantasy
+  }
